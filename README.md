@@ -15,3 +15,5 @@ A: left
 D: right
 W: forward
 ```
+
+[![YouTube Video](https://img.youtube.com/vi/DFWeBlEe_qQ/0.jpg)](https://www.youtube.com/watch?v=DFWeBlEe_qQ)
